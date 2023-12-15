@@ -1,5 +1,6 @@
 ## Frontend Evaluation Test - Pocket Notes ##
-React Module Test | Notes App
+
+# React Module Test | Notes App
 
 Figma Link: https://www.figma.com/file/3WQMOAqUEgPzDaP1CC1Lwg/Assignment?type=design&node-id=0%3A1&mode=design&t=DdFISFrSpgns4gx7-1
 
